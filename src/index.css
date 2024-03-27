@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1e1d2f;
+  color: white;
+}
+
+.height {
+  height: 80px;
+}
+
+.quote {
+  display: none;
+}
